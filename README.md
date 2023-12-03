@@ -1,6 +1,5 @@
 ![MasterHead](https://github.com/GOSPEL-CHUKWU/GOSPEL-CHUKWU/blob/main/github-image.png)
-### Hi👋, I'm Gospel Chidiebube Chukwu
-<h1 align="center">Hi 👋, I'm Blessing Onuoha</h1>
+<h1 align="center">Hi👋, I'm Gospel Chidiebube Chukwu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blessingonuoha&label=Profile%20views&color=0e75b6&style=flat" alt="blessingonuoha" /> </p>
