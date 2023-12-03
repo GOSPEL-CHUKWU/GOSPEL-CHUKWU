@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hey_its_ebube" target="blank"><img src="https://img.shields.io/twitter/follow/hey_its_ebube?logo=twitter&style=for-the-badge" alt="Ebube" /></a> </p>
 
-  🔭 I’m presently working on **securing an Intern/Junior/Entry-Level Frontend Developer role**
+- 🔭 I’m presently working on **securing an Intern/Junior/Entry-Level Frontend Developer role**
 
 - 👯 I’m looking to work with **people passionate about creating innovative projects.**
 
