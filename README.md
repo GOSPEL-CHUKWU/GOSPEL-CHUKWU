@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hey_its_ebube" target="blank"><img src="https://img.shields.io/twitter/follow/hey_its_ebube?logo=twitter&style=for-the-badge" alt="Ebube" /></a> </p>
 
-- 🔭 I’m presently working on **securing an Intern/Junior/Entry-Level Frontend Developer role**
+  🔭 I’m presently working on **securing an Intern/Junior/Entry-Level Frontend Developer role**
 
 - 👯 I’m looking to work with **people passionate about creating innovative projects.**
 
@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maggiejames4439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maggiejames4439" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/blessing-onuoha-4b92a28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blessing-onuoha-4b92a28a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18815995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18815995" height="30" width="40" /></a>
+<a href="https://twitter.com/hey_its_ebube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maggiejames4439" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gospel-chukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blessing-onuoha-4b92a28a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19923185/gospel-chukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18815995" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
