@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GOSPEL-CHUKWU&label=Profile%20views&color=0e75b6&style=flat" alt="ebube" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hey_its_ebube" target="blank"><img src="https://img.shields.io/twitter/follow/hey_its_ebube?logo=twitter&style=for-the-badge" alt="ebube" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hey_its_ebube" target="blank"><img src="https://img.shields.io/twitter/follow/hey_its_ebube?logo=twitter&style=for-the-badge" alt="Ebube" /></a> </p>
+<p align="left"> <a href="https://instagram.com/hey_its_ebube" target="blank"><img src="https://img.shields.io/instagram/follow/hey_its_ebube?logo=instagram&style=for-the-badge" alt="Ebube" /></a> </p>
+- 🔭 I’m presently working on **securing an Intern/Junior/Entry-Level Frontend Developer role**
 
-- 🔭 I’m currently working on **securing an Intern/Junior developer role**
+- 👯 I’m looking to work with **people passionate about creating innovative projects.**
 
-- 👯 I’m looking to work with **people that are passionate about building innovative projects.**
+- 📫 Reach me via **gospelchukwu.me@gmail.com**
 
-- 📫 Reach me via **blessingonuoha.dev@gmail.com**
-
-- ⚡ Fun fact **I am an awesome team player with a weird sense of humor**
+- ⚡ Fun fact **I am an excellent team player with a little weird sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
